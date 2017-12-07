@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyDemo", "AssemblyDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyAttrDemo", "AssemblyAttrDemo\AssemblyAttrDemo.csproj", "{FCA43FD8-A085-4ED7-9F7E-A4CC1A79C514}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyDemo2", "AssemblyDemo2\AssemblyDemo2.csproj", "{C07FFB82-48DB-4B12-A1CF-13BEC340E670}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FCA43FD8-A085-4ED7-9F7E-A4CC1A79C514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCA43FD8-A085-4ED7-9F7E-A4CC1A79C514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCA43FD8-A085-4ED7-9F7E-A4CC1A79C514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07FFB82-48DB-4B12-A1CF-13BEC340E670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07FFB82-48DB-4B12-A1CF-13BEC340E670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07FFB82-48DB-4B12-A1CF-13BEC340E670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07FFB82-48DB-4B12-A1CF-13BEC340E670}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
