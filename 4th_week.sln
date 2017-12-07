@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyDemo2", "AssemblyDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicCodeDemo", "DynamicCodeDemo\DynamicCodeDemo.csproj", "{CE69C225-536A-41BA-B585-D67CD68FF148}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDynamic", "DemoDynamic\DemoDynamic.csproj", "{6F58F9CB-8ACF-4BFB-A946-0B2C46E54623}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CE69C225-536A-41BA-B585-D67CD68FF148}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE69C225-536A-41BA-B585-D67CD68FF148}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE69C225-536A-41BA-B585-D67CD68FF148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F58F9CB-8ACF-4BFB-A946-0B2C46E54623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F58F9CB-8ACF-4BFB-A946-0B2C46E54623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F58F9CB-8ACF-4BFB-A946-0B2C46E54623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F58F9CB-8ACF-4BFB-A946-0B2C46E54623}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
